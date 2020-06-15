@@ -1,0 +1,55 @@
+					MANUAL DO GERENCIADOR DE SEQUENCIAS:
+
+						Mód (supervisor)
+
+
+
+[ 1 ] - EMITIR SEQUÊNCIA
+
+Os usuários comuns, fora os supervisores (Osias e Bruno), podem emitir apenas 2 sequencias no dia.
+Portanto,  escolha  essa  opção  para  emitir  quantas  sequencias  forem  necessárias.  Para isso
+escolha digite a opção "1" e a letra "S" para emitir uma sequencia nova. Para voltar, digite
+"N".
+
+
+
+[ 2 ] - CADASTRAR USUÁRIO
+
+Escolha esta opção para gerar um novo login e senha. Para isso, digite a opção "2". Digite o primeiro
+nome  escolhido  para  o  login,  pressione enter.  Depois  escolha  o segundo nome, pressione enter. 
+*** Login normalmente igual ao usuário do windows ou Register). O sistema irá mostrar na tela o novo
+Login e a Senha.
+
+
+
+[ 3 ] - DELETAR USUÁRIO
+
+Escolha esta opção para deletar um usuário que não precisa mais acessar o sistema. Digite a opção "3".
+Confirme sua opção digitando "S". Digite o LOGIN do usuário que será excluído e pressione enter.
+
+
+
+
+[ 4 ] - EMITIR LISTA LOGIN E SENHA
+
+Escolha esta opção para listar os acessos e senhas dos usuários.
+
+
+
+[ 5 ] - EMITIR LISTA DE ACESSOS
+
+Escolha esta opção para exibir um histórico de todos os acessos, sequencias emitidas e logs do sistema.
+Para tal, digite a opção "5". Digite o login do usuário que você quer visualizar o histórico.
+
+
+
+[ 6 ] - SAIR
+
+Para sair do sistema digite a opção "6" e pressione enter.
+
+
+
+
+
+
+	

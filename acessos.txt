@@ -1,0 +1,643 @@
+JOAO MINELLI        	12/3/2018	09:24:07	Gerou sequencia (42501 até 42600)
+JOAO MINELLI        	12/3/2018	10:24:04	Senha incorreta ou não cadastrada
+DANIELA BARATIERI   	12/3/2018	10:24:39	Gerou sequencia (42601 até 42700)
+ANDRALIS FERRAZ     	12/3/2018	11:06:37	Gerou sequencia (42701 até 42800)
+ANDRALIS FERRAZ     	12/3/2018	14:06:17	Senha incorreta ou não cadastrada
+LOURDES MARIA       	12/3/2018	14:07:13	Gerou sequencia (42801 até 42900)
+LOURDES MARIA       	12/3/2018	14:10:02	Cancelou processo
+GABRIEL REINELLI    	14/3/2018	08:10:29	Gerou sequencia (42901 até 43000)
+JOAO MINELLI        	14/3/2018	11:09:38	Gerou sequencia (43001 até 43100)
+ANDRALIS FERRAZ     	14/3/2018	11:46:54	Gerou sequencia (43101 até 43200)
+LOURDES MARIA       	14/3/2018	14:18:47	Gerou sequencia (43201 até 43300)
+LOURDES MARIA       	14/3/2018	16:55:04	Senha incorreta ou não cadastrada
+LOURDES MARIA       	14/3/2018	16:55:18	Senha incorreta ou não cadastrada
+BRUNO FONSECA       	14/3/2018	16:55:42	Listou logins e senhas
+BRUNO FONSECA       	14/3/2018	16:55:51	Login errado ou não cadastrado
+JORGE HENRIQUE      	14/3/2018	16:56:28	Gerou sequencia (43301 até 43400)
+BRUNO FONSECA       	15/3/2018	09:01:46	Listou logins e senhas
+VICTTORIA GONCALVES 	15/3/2018	09:02:28	Gerou sequencia (43401 até 43500)
+LOURDES MARIA       	16/3/2018	15:55:14	Gerou sequencia (43501 até 43600)
+LOURDES MARIA       	16/3/2018	16:34:39	Senha incorreta ou não cadastrada
+BRUNO FONSECA       	16/3/2018	16:35:38	Listou logins e senhas
+BRUNO FONSECA       	16/3/2018	16:36:10	Cancelou processo
+BRUNO FONSECA       	16/3/2018	16:37:52	Excluiu login e senha (ANDRALIS FERRAZ)
+BRUNO FONSECA       	16/3/2018	16:38:54	Listou acessos (BRUNO FONSECA)
+BRUNO FONSECA       	16/3/2018	16:39:11	Listou acessos (LOURDES MARIA)
+LOURDES MARIA       	20/3/2018	14:47:07	Cancelou processo
+LOURDES MARIA       	20/3/2018	09:24:06	Senha incorreta ou não cadastrada
+BRUNO FONSECA       	22/3/2018	09:24:52	Listou logins e senhas
+VICTTORIA GONCALVES 	22/3/2018	09:25:23	Gerou sequencia (43601 até 43700)
+VICTTORIA GONCALVES 	22/3/2018	10:10:48	Senha incorreta ou não cadastrada
+VICTTORIA GONCALVES 	22/3/2018	10:11:03	Senha incorreta ou não cadastrada
+JOAO MINELLI        	22/3/2018	10:17:05	Gerou sequencia (43701 até 43800)
+JOAO MINELLI        	22/3/2018	17:23:40	Senha incorreta ou não cadastrada
+JORGE HENRIQUE      	22/3/2018	17:24:01	Gerou sequencia (43801 até 43900)
+LOURDES MARIA       	26/3/2018	13:49:12	Gerou sequencia (43901 até 44000)
+LOURDES MARIA       	26/3/2018	10:41:58	Senha incorreta ou não cadastrada
+JOAO MINELLI        	27/3/2018	10:42:37	Gerou sequencia (44001 até 44100)
+VICTTORIA GONCALVES 	28/3/2018	08:48:13	Gerou sequencia (44101 até 44200)
+BRUNO FONSECA       	2/4/2018	14:35:00	Listou acessos (BRUNO FONSECA)
+BRUNO FONSECA       	2/4/2018	15:00:30	Senha incorreta ou não cadastrada
+JORGE HENRIQUE      	2/4/2018	15:01:00	Gerou sequencia (44201 até 44300)
+LOURDES MARIA       	2/4/2018	15:40:06	Gerou sequencia (44301 até 44400)
+JOAO MINELLI        	3/4/2018	10:38:08	Gerou sequencia (44401 até 44500)
+VICTTORIA GONCALVES 	5/4/2018	12:07:32	Gerou sequencia (44501 até 44600)
+VICTTORIA GONCALVES 	5/4/2018	14:58:28	Login errado ou não cadastrado
+VICTTORIA GONCALVES 	5/4/2018	14:58:39	Senha incorreta ou não cadastrada
+JORGE HENRIQUE      	5/4/2018	14:59:03	Gerou sequencia (44601 até 44700)
+JOAO MINELLI        	10/4/2018	10:27:01	Gerou sequencia (44701 até 44800)
+JORGE HENRIQUE      	10/4/2018	15:58:43	Gerou sequencia (44801 até 44900)
+LOURDES MARIA       	10/4/2018	16:37:13	Gerou sequencia (44901 até 45000)
+VICTTORIA GONCALVES 	11/4/2018	11:58:53	Gerou sequencia (45001 até 45100)
+JOAO MINELLI        	12/4/2018	16:34:27	Gerou sequencia (45101 até 45200)
+JOAO MINELLI        	12/4/2018	14:52:20	Senha incorreta ou não cadastrada
+JORGE HENRIQUE      	13/4/2018	14:52:44	Gerou sequencia (45201 até 45300)
+JORGE HENRIQUE      	13/4/2018	10:02:51	Login errado ou não cadastrado
+VICTTORIA GONCALVES 	17/4/2018	10:03:24	Gerou sequencia (45301 até 45400)
+LOURDES MARIA       	17/4/2018	14:48:27	Gerou sequencia (45401 até 45500)
+JORGE HENRIQUE      	18/4/2018	16:44:22	Gerou sequencia (45501 até 45600)
+JOAO MINELLI        	19/4/2018	11:53:58	Gerou sequencia (45601 até 45700)
+LOURDES MARIA       	20/4/2018	17:00:36	Gerou sequencia (45701 até 45800)
+BRUNO FONSECA       	23/4/2018	15:19:17	Listou logins e senhas
+VICTTORIA GONCALVES 	24/4/2018	11:26:07	Gerou sequencia (45801 até 45900)
+LOURDES MARIA       	25/4/2018	16:57:14	Gerou sequencia (45901 até 46000)
+JOAO MINELLI        	26/4/2018	09:47:41	Gerou sequencia (46001 até 46100)
+BRUNO FONSECA       	27/4/2018	16:30:58	Gerou login e senha (BIANCA ALEBRANT - 5640)
+BRUNO FONSECA       	27/4/2018	16:31:56	Listou logins e senhas
+BIANCA ALEBRANT     	27/4/2018	16:32:41	Gerou sequencia (46101 até 46200)
+BRUNO FONSECA       	27/4/2018	16:57:13	Gerou sequencia (46201 até 46300)
+JOAO MINELLI        	30/4/2018	11:07:28	Gerou sequencia (46301 até 46400)
+JOAO MINELLI        	30/4/2018	12:12:03	Login errado ou não cadastrado
+JOAO MINELLI        	30/4/2018	12:12:24	Login errado ou não cadastrado
+VICTTORIA GONCALVES 	30/4/2018	12:13:13	Gerou sequencia (46401 até 46500)
+LOURDES MARIA       	30/4/2018	14:09:49	Gerou sequencia (46501 até 46600)
+BIANCA ALEBRANT     	3/5/2018	13:57:12	Gerou sequencia (46601 até 46700)
+LOURDES MARIA       	3/5/2018	17:41:51	Gerou sequencia (46701 até 46800)
+BRUNO FONSECA       	4/5/2018	08:57:46	Gerou login e senha (BIANCA TOSTES - 6376)
+BRUNO FONSECA       	4/5/2018	08:58:12	Listou logins e senhas
+BIANCA TOSTES       	4/5/2018	08:58:55	Cancelou processo
+BIANCA TOSTES       	4/5/2018	08:59:27	Gerou sequencia (46801 até 46900)
+JOAO MINELLI        	4/5/2018	10:37:21	Gerou sequencia (46901 até 47000)
+VICTTORIA GONCALVES 	4/5/2018	10:38:19	Gerou sequencia (47001 até 47100)
+VICTTORIA GONCALVES 	4/5/2018	12:31:46	Senha incorreta ou não cadastrada
+VICTTORIA GONCALVES 	8/5/2018	12:32:21	Gerou sequencia (47101 até 47200)
+BIANCA ALEBRANT     	9/5/2018	14:36:34	Gerou sequencia (47201 até 47300)
+LOURDES MARIA       	9/5/2018	15:02:20	Gerou sequencia (47301 até 47400)
+JOAO MINELLI        	10/5/2018	09:42:10	Gerou sequencia (47401 até 47500)
+JOAO MINELLI        	10/5/2018	10:21:43	Login errado ou não cadastrado
+JOAO MINELLI        	10/5/2018	10:21:52	Login errado ou não cadastrado
+JOAO MINELLI        	10/5/2018	10:22:01	Login errado ou não cadastrado
+JOAO MINELLI        	10/5/2018	10:23:13	Login errado ou não cadastrado
+JOAO MINELLI        	10/5/2018	10:28:37	Senha incorreta ou não cadastrada
+JOAO MINELLI        	10/5/2018	10:29:15	Senha incorreta ou não cadastrada
+BRUNO FONSECA       	10/5/2018	10:30:14	Listou logins e senhas
+BIANCA TOSTES       	10/5/2018	10:30:48	Gerou sequencia (47501 até 47600)
+BIANCA ALEBRANT     	11/5/2018	15:44:56	Gerou sequencia (47601 até 47700)
+BIANCA TOSTES       	14/5/2018	12:00:05	Gerou sequencia (47701 até 47800)
+BIANCA TOSTES       	14/5/2018	10:41:36	Login errado ou não cadastrado
+JOAO MINELLI        	15/5/2018	10:42:03	Gerou sequencia (47801 até 47900)
+BIANCA ALEBRANT     	15/5/2018	17:07:25	Gerou sequencia (47901 até 48000)
+BIANCA ALEBRANT     	17/5/2018	17:23:15	Gerou sequencia (48001 até 48100)
+BIANCA TOSTES       	18/5/2018	10:28:34	Gerou sequencia (48101 até 48200)
+LOURDES MARIA       	18/5/2018	14:37:50	Gerou sequencia (48201 até 48300)
+JOAO MINELLI        	22/5/2018	09:11:57	Gerou sequencia (48301 até 48400)
+LOURDES MARIA       	22/5/2018	13:11:37	Gerou sequencia (48401 até 48500)
+BIANCA ALEBRANT     	22/5/2018	15:32:01	Gerou sequencia (48501 até 48600)
+BRUNO FONSECA       	23/5/2018	09:16:58	Gerou login e senha (LUCAS SILVA - 8223)
+BRUNO FONSECA       	23/5/2018	09:17:11	Listou logins e senhas
+LUCAS SILVA         	23/5/2018	09:18:41	Gerou sequencia (48601 até 48700)
+BIANCA ALEBRANT     	25/5/2018	15:01:57	Gerou sequencia (48701 até 48800)
+JOAO MINELLI        	28/5/2018	09:00:48	Gerou sequencia (48801 até 48900)
+JOAO MINELLI        	28/5/2018	09:42:39	Senha incorreta ou não cadastrada
+BRUNO FONSECA       	28/5/2018	09:41:27	Listou logins e senhas
+BIANCA TOSTES       	28/5/2018	09:44:23	Gerou sequencia (48901 até 49000)
+BIANCA ALEBRANT     	29/5/2018	14:40:48	Gerou sequencia (49001 até 49100)
+LOURDES MARIA       	29/5/2018	15:17:17	Gerou sequencia (49101 até 49200)
+BRUNO FONSECA       	29/5/2018	17:45:52	Listou logins e senhas
+BRUNO FONSECA       	29/5/2018	17:46:55	Gerou login e senha (KALIANA SOARES - 4545)
+KALIANA SOARES      	29/5/2018	17:47:48	Gerou sequencia (49201 até 49300)
+KALIANA SOARES      	29/5/2018	12:13:06	Login errado ou não cadastrado
+VICTTORIA GONCALVES 	1/6/2018	12:14:17	Gerou sequencia (49301 até 49400)
+BIANCA ALEBRANT     	1/6/2018	15:30:31	Gerou sequencia (49401 até 49500)
+LUCAS SILVA         	4/6/2018	10:07:56	Gerou sequencia (49501 até 49600)
+LUCAS SILVA         	4/6/2018	10:12:03	Cancelou processo
+LOURDES MARIA       	4/6/2018	14:46:19	Gerou sequencia (49601 até 49700)
+KALIANA SOARES      	5/6/2018	08:29:44	Gerou sequencia (49701 até 49800)
+JOAO MINELLI        	5/6/2018	08:55:23	Gerou sequencia (49801 até 49900)
+JOAO MINELLI        	5/6/2018	10:23:28	Senha incorreta ou não cadastrada
+JOAO MINELLI        	5/6/2018	10:23:56	Senha incorreta ou não cadastrada
+BIANCA TOSTES       	5/6/2018	10:24:20	Gerou sequencia (49901 até 50000)
+BIANCA ALEBRANT     	5/6/2018	14:32:35	Gerou sequencia (50001 até 50100)
+KALIANA SOARES      	7/6/2018	12:14:51	Gerou sequencia (50101 até 50200)
+KALIANA SOARES      	7/6/2018	14:11:45	Senha incorreta ou não cadastrada
+LOURDES MARIA       	7/6/2018	14:12:17	Gerou sequencia (50201 até 50300)
+BIANCA ALEBRANT     	7/6/2018	16:56:05	Gerou sequencia (50301 até 50400)
+VICTTORIA GONCALVES 	8/6/2018	08:21:46	Gerou sequencia (50401 até 50500)
+BIANCA TOSTES       	8/6/2018	09:46:09	Gerou sequencia (50501 até 50600)
+JOAO MINELLI        	11/6/2018	10:02:06	Gerou sequencia (50601 até 50700)
+BIANCA ALEBRANT     	11/6/2018	14:54:49	Gerou sequencia (50701 até 50800)
+LUCAS SILVA         	12/6/2018	09:38:28	Gerou sequencia (50801 até 50900)
+LOURDES MARIA       	12/6/2018	14:04:57	Gerou sequencia (50901 até 51000)
+KALIANA SOARES      	13/6/2018	09:31:04	Gerou sequencia (51001 até 51100)
+VICTTORIA GONCALVES 	13/6/2018	11:31:35	Gerou sequencia (51101 até 51200)
+BIANCA ALEBRANT     	13/6/2018	13:08:13	Gerou sequencia (51201 até 51300)
+BIANCA TOSTES       	14/6/2018	11:02:57	Gerou sequencia (51301 até 51400)
+JOAO MINELLI        	15/6/2018	08:47:32	Gerou sequencia (51401 até 51500)
+BIANCA ALEBRANT     	15/6/2018	13:43:01	Gerou sequencia (51501 até 51600)
+BRUNO FONSECA       	21/6/2018	08:31:22	Listou logins e senhas
+LUCAS SILVA         	21/6/2018	08:31:49	Cancelou processo
+LUCAS SILVA         	21/6/2018	14:47:51	Login errado ou não cadastrado
+LUCAS SILVA         	21/6/2018	14:48:19	Login errado ou não cadastrado
+LUCAS SILVA         	21/6/2018	14:48:42	Login errado ou não cadastrado
+LOURDES MARIA       	21/6/2018	14:49:06	Login errado ou não cadastrado
+LOURDES MARIA       	21/6/2018	14:46:47	Login errado ou não cadastrado
+LOURDES MARIA       	21/6/2018	14:51:29	Login errado ou não cadastrado
+BIANCA ALEBRANT     	22/6/2018	14:25:03	Gerou sequencia (51601 até 51700)
+JOAO MINELLI        	25/6/2018	11:07:50	Gerou sequencia (51701 até 51800)
+KALIANA SOARES      	25/6/2018	11:07:53	Gerou sequencia (51801 até 51900)
+KALIANA SOARES      	25/6/2018	11:16:49	Senha incorreta ou não cadastrada
+KALIANA SOARES      	25/6/2018	11:17:08	Senha incorreta ou não cadastrada
+BRUNO FONSECA       	26/6/2018	11:17:35	Listou logins e senhas
+LUCAS SILVA         	26/6/2018	11:18:15	Gerou sequencia (51901 até 52000)
+BIANCA ALEBRANT     	26/6/2018	14:19:54	Gerou sequencia (52001 até 52100)
+BRUNO FONSECA       	27/6/2018	09:16:37	Listou logins e senhas
+BRUNO FONSECA       	27/6/2018	09:17:13	Excluiu login e senha (BIANCA TOSTES)
+BRUNO FONSECA       	27/6/2018	09:18:20	Listou logins e senhas
+VICTTORIA GONCALVES 	27/6/2018	09:20:15	Gerou sequencia (52101 até 52200)
+BRUNO FONSECA       	27/6/2018	09:23:13	Listou logins e senhas
+BRUNO FONSECA       	27/6/2018	09:23:48	Listou acessos (JOAO MINELLI)
+BRUNO FONSECA       	27/6/2018	09:28:12	Login errado ou não cadastrado
+JOAO MINELLI        	28/6/2018	09:49:35	Gerou sequencia (52201 até 52300)
+LOURDES MARIA       	28/6/2018	17:14:55	Gerou sequencia (52301 até 52400)
+LOURDES MARIA       	28/6/2018	09:57:13	Login errado ou não cadastrado
+KALIANA SOARES      	29/6/2018	09:57:53	Gerou sequencia (52401 até 52500)
+BIANCA ALEBRANT     	29/6/2018	14:33:12	Gerou sequencia (52501 até 52600)
+JOAO MINELLI        	3/7/2018	12:08:59	Gerou sequencia (52601 até 52700)
+VICTTORIA GONCALVES 	3/7/2018	12:39:29	Gerou sequencia (52701 até 52800)
+LOURDES MARIA       	3/7/2018	14:16:37	Gerou sequencia (52801 até 52900)
+BIANCA ALEBRANT     	3/7/2018	16:50:10	Gerou sequencia (52901 até 53000)
+KALIANA SOARES      	5/7/2018	10:58:09	Gerou sequencia (53001 até 53100)
+LOURDES MARIA       	5/7/2018	17:11:29	Gerou sequencia (53101 até 53200)
+BIANCA ALEBRANT     	5/7/2018	17:38:20	Gerou sequencia (53201 até 53300)
+VICTTORIA GONCALVES 	9/7/2018	11:32:54	Gerou sequencia (53301 até 53400)
+JOAO MINELLI        	9/7/2018	12:31:53	Gerou sequencia (53401 até 53500)
+KALIANA SOARES      	10/7/2018	11:18:25	Gerou sequencia (53501 até 53600)
+LUCAS SILVA         	10/7/2018	11:28:21	Gerou sequencia (53601 até 53700)
+LOURDES MARIA       	11/7/2018	12:02:48	Gerou sequencia (53701 até 53800)
+BIANCA ALEBRANT     	11/7/2018	14:15:34	Gerou sequencia (53801 até 53900)
+BRUNO FONSECA       	11/7/2018	17:37:48	Listou logins e senhas
+BRUNO FONSECA       	11/7/2018	17:38:13	Listou acessos (BRUNO FONSECA)
+VICTTORIA GONCALVES 	12/7/2018	09:38:25	Gerou sequencia (53901 até 54000)
+JOAO MINELLI        	12/7/2018	11:24:21	Gerou sequencia (54001 até 54100)
+KALIANA SOARES      	13/7/2018	09:12:12	Gerou sequencia (54101 até 54200)
+BRUNO FONSECA       	13/7/2018	09:14:38	Listou logins e senhas
+BIANCA ALEBRANT     	16/7/2018	13:01:08	Gerou sequencia (54201 até 54300)
+LOURDES MARIA       	16/7/2018	17:18:52	Gerou sequencia (54301 até 54400)
+JOAO MINELLI        	17/7/2018	08:48:18	Gerou sequencia (54401 até 54500)
+KALIANA SOARES      	17/7/2018	11:34:47	Gerou sequencia (54501 até 54600)
+KALIANA SOARES      	17/7/2018	12:43:30	Login errado ou não cadastrado
+KALIANA SOARES      	17/7/2018	12:43:49	Senha incorreta ou não cadastrada
+VICTTORIA GONCALVES 	18/7/2018	12:44:12	Gerou sequencia (54601 até 54700)
+BRUNO FONSECA       	18/7/2018	13:13:29	Gerou login e senha (RAFAELA SILVA - 4133)
+RAFAELA SILVA       	18/7/2018	13:14:32	Gerou sequencia (54701 até 54800)
+BIANCA ALEBRANT     	18/7/2018	17:28:44	Gerou sequencia (54801 até 54900)
+JOAO MINELLI        	20/7/2018	08:23:30	Gerou sequencia (54901 até 55000)
+LUCAS SILVA         	20/7/2018	08:34:02	Gerou sequencia (55001 até 55100)
+VICTTORIA GONCALVES 	23/7/2018	10:21:40	Gerou sequencia (55101 até 55200)
+RAFAELA SILVA       	23/7/2018	16:00:40	Gerou sequencia (55201 até 55300)
+VICTTORIA GONCALVES 	26/7/2018	12:16:41	Gerou sequencia (55301 até 55400)
+BRUNO FONSECA       	27/7/2018	13:01:00	Gerou login e senha (ANDREIA JOHANN - 9264)
+BRUNO FONSECA       	27/7/2018	13:02:08	Gerou login e senha (JULIA QUADROS - 7084)
+BRUNO FONSECA       	27/7/2018	13:02:39	Listou logins e senhas
+BRUNO FONSECA       	27/7/2018	13:03:24	Gerou login e senha (LETICIA DAGOSTIN - 1798)
+BIANCA ALEBRANT     	27/7/2018	13:56:21	Gerou sequencia (55401 até 55500)
+JULIA QUADROS       	27/7/2018	14:18:23	Gerou sequencia (55501 até 55600)
+JULIA QUADROS       	27/7/2018	14:19:04	Login errado ou não cadastrado
+LETICIA DAGOSTIN    	27/7/2018	14:21:24	Gerou sequencia (55601 até 55700)
+ANDREIA JOHANN      	27/7/2018	14:25:26	Gerou sequencia (55701 até 55800)
+RAFAELA SILVA       	27/7/2018	15:36:56	Gerou sequencia (55801 até 55900)
+LETICIA DAGOSTIN    	27/7/2018	16:09:22	Gerou sequencia (55901 até 56000)
+JULIA QUADROS       	27/7/2018	17:00:22	Gerou sequencia (56001 até 56100)
+BIANCA ALEBRANT     	27/7/2018	17:29:35	Gerou sequencia (56101 até 56200)
+BRUNO FONSECA       	30/7/2018	11:59:22	Cancelou processo
+BRUNO FONSECA       	30/7/2018	12:12:52	Listou acessos (BRUNO FONSECA)
+BRUNO FONSECA       	30/7/2018	12:13:04	Listou logins e senhas
+BRUNO FONSECA       	30/7/2018	12:13:25	Listou logins e senhas
+BRUNO FONSECA       	30/7/2018	12:13:54	Gerou login e senha (MAURO RAMOS - 3887)
+BRUNO FONSECA       	30/7/2018	12:17:06	Excluiu login e senha (MAURO RAMOS)
+BRUNO FONSECA       	30/7/2018	12:20:29	Listou logins e senhas
+ANDREIA JOHANN      	30/7/2018	13:25:11	Gerou sequencia (56201 até 56300)
+JOAO MINELLI        	31/7/2018	11:23:37	Gerou sequencia (56301 até 56400)
+BRUNO FONSECA       	31/7/2018	12:03:36	Listou logins e senhas
+OSIAS ROSARIO       	31/7/2018	12:04:38	Cancelou processo
+OSIAS ROSARIO       	31/7/2018	12:05:39	Gerou login e senha (MAURO RAMOS - 9129)
+OSIAS ROSARIO       	31/7/2018	12:05:53	Listou logins e senhas
+OSIAS ROSARIO       	31/7/2018	12:06:30	Excluiu login e senha (MAURO RAMOS)
+OSIAS ROSARIO       	31/7/2018	12:06:43	Senha incorreta ou não cadastrada
+OSIAS ROSARIO       	31/7/2018	12:07:13	Senha incorreta ou não cadastrada
+OSIAS ROSARIO       	31/7/2018	12:07:49	Listou logins e senhas
+OSIAS ROSARIO       	31/7/2018	12:09:04	Listou acessos (VICTTORIA GONCALVES)
+BIANCA ALEBRANT     	1/8/2018	13:57:55	Gerou sequencia (56401 até 56500)
+ANDREIA JOHANN      	1/8/2018	14:01:29	Gerou sequencia (56501 até 56600)
+LETICIA DAGOSTIN    	1/8/2018	15:44:46	Gerou sequencia (56601 até 56700)
+LUCAS SILVA         	2/8/2018	09:25:53	Gerou sequencia (56701 até 56800)
+JULIA QUADROS       	2/8/2018	13:13:50	Gerou sequencia (56801 até 56900)
+ANDREIA JOHANN      	3/8/2018	13:12:35	Gerou sequencia (56901 até 57000)
+RAFAELA SILVA       	3/8/2018	14:13:14	Gerou sequencia (57001 até 57100)
+RAFAELA SILVA       	3/8/2018	16:19:36	Senha incorreta ou não cadastrada
+BIANCA ALEBRANT     	3/8/2018	16:20:01	Gerou sequencia (57101 até 57200)
+LETICIA DAGOSTIN    	3/8/2018	17:25:54	Gerou sequencia (57201 até 57300)
+VICTTORIA GONCALVES 	7/8/2018	10:35:16	Gerou sequencia (57301 até 57400)
+ANDREIA JOHANN      	7/8/2018	14:31:31	Gerou sequencia (57401 até 57500)
+BIANCA ALEBRANT     	7/8/2018	16:43:23	Gerou sequencia (57501 até 57600)
+LETICIA DAGOSTIN    	8/8/2018	15:43:25	Gerou sequencia (57601 até 57700)
+JULIA QUADROS       	8/8/2018	17:40:32	Gerou sequencia (57701 até 57800)
+ANDREIA JOHANN      	9/8/2018	13:59:10	Gerou sequencia (57801 até 57900)
+RAFAELA SILVA       	9/8/2018	16:49:51	Gerou sequencia (57901 até 58000)
+VICTTORIA GONCALVES 	10/8/2018	11:37:02	Gerou sequencia (58001 até 58100)
+BIANCA ALEBRANT     	10/8/2018	16:42:14	Gerou sequencia (58101 até 58200)
+JULIA QUADROS       	13/8/2018	16:18:44	Login errado ou não cadastrado
+JULIA QUADROS       	13/8/2018	16:19:34	Gerou sequencia (58201 até 58300)
+LETICIA DAGOSTIN    	13/8/2018	16:29:28	Gerou sequencia (58301 até 58400)
+ANDREIA JOHANN      	14/8/2018	16:36:59	Gerou sequencia (58401 até 58500)
+LETICIA DAGOSTIN    	14/8/2018	16:43:18	Gerou sequencia (58501 até 58600)
+LETICIA DAGOSTIN    	15/8/2018	13:40:35	Gerou sequencia (58601 até 58700)
+BIANCA ALEBRANT     	15/8/2018	17:24:14	Gerou sequencia (58701 até 58800)
+JULIA QUADROS       	15/8/2018	17:49:18	Gerou sequencia (58801 até 58900)
+RAFAELA SILVA       	16/8/2018	13:52:14	Gerou sequencia (58901 até 59000)
+ANDREIA JOHANN      	16/8/2018	14:41:06	Gerou sequencia (59001 até 59100)
+VICTTORIA GONCALVES 	17/8/2018	11:03:05	Gerou sequencia (59101 até 59200)
+LETICIA DAGOSTIN    	17/8/2018	16:38:18	Gerou sequencia (59201 até 59300)
+LETICIA DAGOSTIN    	17/8/2018	16:39:16	Gerou sequencia (59301 até 59400)
+BIANCA ALEBRANT     	20/8/2018	14:00:25	Gerou sequencia (59401 até 59500)
+JULIA QUADROS       	20/8/2018	14:56:25	Gerou sequencia (59501 até 59600)
+LOURDES MARIA       	20/8/2018	15:13:23	Gerou sequencia (59601 até 59700)
+ANDREIA JOHANN      	20/8/2018	16:36:52	Gerou sequencia (59701 até 59800)
+KALIANA SOARES      	21/8/2018	08:13:52	Gerou sequencia (59801 até 59900)
+JULIA QUADROS       	22/8/2018	15:30:56	Gerou sequencia (59901 até 60000)
+BIANCA ALEBRANT     	22/8/2018	16:55:56	Gerou sequencia (60001 até 60100)
+ANDREIA JOHANN      	22/8/2018	16:59:47	Gerou sequencia (60101 até 60200)
+VICTTORIA GONCALVES 	24/8/2018	08:55:27	Gerou sequencia (60201 até 60300)
+RAFAELA SILVA       	24/8/2018	13:08:39	Gerou sequencia (60301 até 60400)
+LETICIA DAGOSTIN    	24/8/2018	14:20:54	Gerou sequencia (60401 até 60500)
+LOURDES MARIA       	24/8/2018	15:39:05	Gerou sequencia (60501 até 60600)
+JULIA QUADROS       	24/8/2018	17:23:13	Gerou sequencia (60601 até 60700)
+ANDREIA JOHANN      	27/8/2018	15:22:26	Gerou sequencia (60701 até 60800)
+LETICIA DAGOSTIN    	27/8/2018	16:53:56	Gerou sequencia (60801 até 60900)
+BIANCA ALEBRANT     	27/8/2018	17:33:35	Gerou sequencia (60901 até 61000)
+JULIA QUADROS       	28/8/2018	17:10:39	Gerou sequencia (61001 até 61100)
+ANDREIA JOHANN      	29/8/2018	13:02:22	Gerou sequencia (61101 até 61200)
+LETICIA DAGOSTIN    	29/8/2018	13:44:10	Gerou sequencia (61201 até 61300)
+LETICIA DAGOSTIN    	29/8/2018	16:43:35	Login errado ou não cadastrado
+BIANCA ALEBRANT     	29/8/2018	16:44:01	Gerou sequencia (61301 até 61400)
+BIANCA ALEBRANT     	29/8/2018	14:23:25	Senha incorreta ou não cadastrada
+BIANCA ALEBRANT     	29/8/2018	14:23:40	Login errado ou não cadastrado
+ANDREIA JOHANN      	30/8/2018	14:24:12	Gerou sequencia (61401 até 61500)
+JULIA QUADROS       	30/8/2018	17:47:31	Gerou sequencia (61501 até 61600)
+JULIA QUADROS       	30/8/2018	13:40:14	Senha incorreta ou não cadastrada
+BIANCA ALEBRANT     	31/8/2018	13:40:37	Gerou sequencia (61601 até 61700)
+LETICIA DAGOSTIN    	31/8/2018	14:29:30	Gerou sequencia (61701 até 61800)
+JOAO MINELLI        	3/9/2018	08:09:18	Gerou sequencia (61801 até 61900)
+BIANCA ALEBRANT     	3/9/2018	14:21:57	Cancelou processo
+JULIA QUADROS       	3/9/2018	14:36:30	Gerou sequencia (61901 até 62000)
+ANDREIA JOHANN      	3/9/2018	14:48:22	Gerou sequencia (62001 até 62100)
+LETICIA DAGOSTIN    	3/9/2018	15:13:45	Gerou sequencia (62101 até 62200)
+BIANCA ALEBRANT     	3/9/2018	15:34:18	Gerou sequencia (62201 até 62300)
+VICTTORIA GONCALVES 	4/9/2018	08:17:04	Gerou sequencia (62301 até 62400)
+BRUNO FONSECA       	4/9/2018	14:34:45	Listou logins e senhas
+BRUNO FONSECA       	4/9/2018	14:45:52	Listou logins e senhas
+BRUNO FONSECA       	4/9/2018	14:46:14	Excluiu login e senha (KALIANA SOARES)
+BRUNO FONSECA       	4/9/2018	14:46:49	Listou logins e senhas
+BRUNO FONSECA       	4/9/2018	14:47:09	Excluiu login e senha (LUCAS SILVA)
+BRUNO FONSECA       	4/9/2018	14:47:21	Listou logins e senhas
+BRUNO FONSECA       	4/9/2018	14:47:49	Excluiu login e senha (GABRIEL REINELLI)
+BRUNO FONSECA       	4/9/2018	14:47:54	Listou logins e senhas
+BRUNO FONSECA       	4/9/2018	14:48:18	Listou logins e senhas
+BRUNO FONSECA       	4/9/2018	14:48:36	Excluiu login e senha (LOURDES MARIA)
+JULIA QUADROS       	4/9/2018	17:22:16	Gerou sequencia (62401 até 62500)
+RAFAELA SILVA       	5/9/2018	13:31:28	Gerou sequencia (62501 até 62600)
+LETICIA DAGOSTIN    	5/9/2018	13:50:01	Gerou sequencia (62601 até 62700)
+LETICIA DAGOSTIN    	5/9/2018	15:33:53	Senha incorreta ou não cadastrada
+ANDREIA JOHANN      	5/9/2018	15:34:34	Gerou sequencia (62701 até 62800)
+BIANCA ALEBRANT     	5/9/2018	15:54:23	Gerou sequencia (62801 até 62900)
+VICTTORIA GONCALVES 	6/9/2018	09:14:44	Gerou sequencia (62901 até 63000)
+BIANCA ALEBRANT     	6/9/2018	16:02:27	Gerou sequencia (63001 até 63100)
+JULIA QUADROS       	6/9/2018	16:17:31	Gerou sequencia (63101 até 63200)
+ANDREIA JOHANN      	6/9/2018	17:27:23	Gerou sequencia (63201 até 63300)
+JOAO MINELLI        	10/9/2018	09:55:56	Gerou sequencia (63301 até 63400)
+RAFAELA SILVA       	10/9/2018	16:44:55	Gerou sequencia (63401 até 63500)
+LETICIA DAGOSTIN    	11/9/2018	15:46:20	Gerou sequencia (63501 até 63600)
+JULIA QUADROS       	11/9/2018	16:28:27	Gerou sequencia (63601 até 63700)
+VICTTORIA GONCALVES 	12/9/2018	11:08:38	Gerou sequencia (63701 até 63800)
+JOAO MINELLI        	12/9/2018	11:21:45	Gerou sequencia (63801 até 63900)
+ANDREIA JOHANN      	12/9/2018	13:29:08	Gerou sequencia (63901 até 64000)
+ANDREIA JOHANN      	12/9/2018	14:16:25	Gerou sequencia (64001 até 64100)
+BIANCA ALEBRANT     	12/9/2018	14:46:22	Gerou sequencia (64101 até 64200)
+BIANCA ALEBRANT     	12/9/2018	14:57:11	Gerou sequencia (64201 até 64300)
+BIANCA ALEBRANT     	12/9/2018	15:08:39	Excedeu tentativas diárias
+ANDREIA JOHANN      	12/9/2018	15:14:16	Gerou sequencia (64301 até 64400)
+ANDREIA JOHANN      	12/9/2018	15:14:18	Gerou sequencia (64301 até 64400)
+BIANCA ALEBRANT     	12/9/2018	15:24:52	Gerou sequencia (64501 até 64600)
+ANDREIA JOHANN      	12/9/2018	15:59:08	Gerou sequencia (64601 até 64700)
+BIANCA ALEBRANT     	13/9/2018	16:39:53	Gerou sequencia (64701 até 64800)
+RAFAELA SILVA       	14/9/2018	13:14:57	Gerou sequencia (64801 até 64900)
+ANDREIA JOHANN      	14/9/2018	16:51:13	Gerou sequencia (64901 até 65000)
+JULIA QUADROS       	14/9/2018	17:39:57	Gerou sequencia (65001 até 65100)
+LETICIA DAGOSTIN    	14/9/2018	17:40:53	Gerou sequencia (65101 até 65200)
+JOAO MINELLI        	17/9/2018	10:12:03	Gerou sequencia (65201 até 65300)
+ANDREIA JOHANN      	18/9/2018	16:18:17	Gerou sequencia (65301 até 65400)
+JULIA QUADROS       	18/9/2018	17:50:12	Gerou sequencia (65401 até 65500)
+JOAO MINELLI        	20/9/2018	08:20:15	Senha incorreta ou não cadastrada
+JOAO MINELLI        	20/9/2018	08:20:42	Gerou sequencia (65501 até 65600)
+JOAO MINELLI        	20/9/2018	14:05:48	Senha incorreta ou não cadastrada
+LETICIA DAGOSTIN    	20/9/2018	14:10:11	Gerou sequencia (65601 até 65700)
+ANDREIA JOHANN      	20/9/2018	14:23:23	Gerou sequencia (65701 até 65800)
+ANDREIA JOHANN      	20/9/2018	08:27:46	Senha incorreta ou não cadastrada
+VICTTORIA GONCALVES 	24/9/2018	08:30:02	Gerou sequencia (65801 até 65900)
+JOAO MINELLI        	24/9/2018	11:51:51	Gerou sequencia (65901 até 66000)
+JULIA QUADROS       	24/9/2018	14:27:33	Gerou sequencia (66001 até 66100)
+RAFAELA SILVA       	24/9/2018	14:51:40	Gerou sequencia (66101 até 66200)
+ANDREIA JOHANN      	24/9/2018	15:06:35	Gerou sequencia (66201 até 66300)
+ANDREIA JOHANN      	24/9/2018	17:19:20	Login errado ou não cadastrado
+JULIA QUADROS       	25/9/2018	17:19:50	Gerou sequencia (66301 até 66400)
+JULIA QUADROS       	25/9/2018	12:33:45	Senha incorreta ou não cadastrada
+VICTTORIA GONCALVES 	26/9/2018	12:34:17	Gerou sequencia (66401 até 66500)
+ANDREIA JOHANN      	26/9/2018	15:57:14	Gerou sequencia (66501 até 66600)
+JOAO MINELLI        	27/9/2018	12:37:11	Gerou sequencia (66601 até 66700)
+LETICIA DAGOSTIN    	27/9/2018	13:11:09	Gerou sequencia (66701 até 66800)
+JULIA QUADROS       	28/9/2018	15:03:03	Gerou sequencia (66801 até 66900)
+LETICIA DAGOSTIN    	28/9/2018	16:48:29	Gerou sequencia (66901 até 67000)
+ANDREIA JOHANN      	1/10/2018	13:58:41	Gerou sequencia (67001 até 67100)
+JOAO MINELLI        	2/10/2018	14:23:16	Gerou sequencia (67101 até 67200)
+JULIA QUADROS       	2/10/2018	14:30:38	Gerou sequencia (67201 até 67300)
+BIANCA ALEBRANT     	2/10/2018	17:17:47	Gerou sequencia (67301 até 67400)
+ANDREIA JOHANN      	3/10/2018	13:12:22	Gerou sequencia (67401 até 67500)
+RAFAELA SILVA       	3/10/2018	14:53:27	Gerou sequencia (67501 até 67600)
+LETICIA DAGOSTIN    	3/10/2018	16:37:25	Gerou sequencia (67601 até 67700)
+JULIA QUADROS       	4/10/2018	16:57:02	Gerou sequencia (67701 até 67800)
+JOAO MINELLI        	5/10/2018	10:02:44	Gerou sequencia (67801 até 67900)
+BIANCA ALEBRANT     	5/10/2018	13:34:30	Gerou sequencia (67901 até 68000)
+BRUNO FONSECA       	8/10/2018	14:06:37	Listou acessos (LETICIA DAGOSTIN)
+BRUNO FONSECA       	8/10/2018	14:16:11	Senha incorreta ou não cadastrada
+LETICIA DAGOSTIN    	8/10/2018	14:18:21	Excedeu tentativas diárias
+BRUNO FONSECA       	8/10/2018	14:37:40	Gerou sequencia (68401 até 68500)
+BRUNO FONSECA       	8/10/2018	14:43:04	Gerou sequencia (68001 até 68100)
+LETICIA DAGOSTIN    	8/10/2018	14:51:55	Gerou sequencia (68001 até 68100)
+LETICIA DAGOSTIN    	8/10/2018	14:53:16	Cancelou processo
+JULIA QUADROS       	8/10/2018	16:24:41	Gerou sequencia (68101 até 68200)
+ANDREIA JOHANN      	8/10/2018	17:06:22	Gerou sequencia (68201 até 68300)
+JOAO MINELLI        	9/10/2018	11:55:29	Gerou sequencia (68301 até 68400)
+BIANCA ALEBRANT     	9/10/2018	13:58:22	Gerou sequencia (68401 até 68500)
+BIANCA ALEBRANT     	9/10/2018	14:27:43	Login errado ou não cadastrado
+RAFAELA SILVA       	9/10/2018	14:28:20	Gerou sequencia (68501 até 68600)
+LETICIA DAGOSTIN    	10/10/2018	16:17:37	Gerou sequencia (68601 até 68700)
+ANDREIA JOHANN      	10/10/2018	16:55:00	Gerou sequencia (68701 até 68800)
+JULIA QUADROS       	10/10/2018	16:53:46	Gerou sequencia (68801 até 68900)
+BIANCA ALEBRANT     	10/10/2018	17:24:33	Gerou sequencia (68901 até 69000)
+JULIA QUADROS       	15/10/2018	13:29:06	Gerou sequencia (69001 até 69100)
+ANDREIA JOHANN      	15/10/2018	14:48:06	Gerou sequencia (69101 até 69200)
+LETICIA DAGOSTIN    	15/10/2018	15:22:25	Gerou sequencia (69201 até 69300)
+RAFAELA SILVA       	15/10/2018	16:05:42	Gerou sequencia (69301 até 69400)
+RAFAELA SILVA       	15/10/2018	11:34:42	Senha incorreta ou não cadastrada
+JOAO MINELLI        	16/10/2018	11:35:14	Gerou sequencia (69401 até 69500)
+ANDREIA JOHANN      	16/10/2018	14:21:53	Gerou sequencia (69501 até 69600)
+ANDREIA JOHANN      	16/10/2018	13:32:49	Senha incorreta ou não cadastrada
+JULIA QUADROS       	17/10/2018	13:33:23	Gerou sequencia (69601 até 69700)
+LETICIA DAGOSTIN    	17/10/2018	16:08:09	Gerou sequencia (69701 até 69800)
+ANDREIA JOHANN      	18/10/2018	13:47:36	Gerou sequencia (69801 até 69900)
+JULIA QUADROS       	19/10/2018	13:36:17	Gerou sequencia (69901 até 70000)
+RAFAELA SILVA       	19/10/2018	16:57:26	Gerou sequencia (70001 até 70100)
+JOAO MINELLI        	22/10/2018	12:02:27	Gerou sequencia (70101 até 70200)
+ANDREIA JOHANN      	22/10/2018	13:53:45	Gerou sequencia (70201 até 70300)
+LETICIA DAGOSTIN    	22/10/2018	14:03:36	Gerou sequencia (70301 até 70400)
+JULIA QUADROS       	22/10/2018	16:03:49	Gerou sequencia (70401 até 70500)
+BIANCA ALEBRANT     	22/10/2018	16:57:25	Gerou sequencia (70501 até 70600)
+LETICIA DAGOSTIN    	23/10/2018	16:23:59	Gerou sequencia (70601 até 70700)
+JOAO MINELLI        	24/10/2018	11:26:53	Gerou sequencia (70701 até 70800)
+JOAO MINELLI        	24/10/2018	13:47:29	Senha incorreta ou não cadastrada
+ANDREIA JOHANN      	24/10/2018	13:47:54	Gerou sequencia (70801 até 70900)
+JULIA QUADROS       	24/10/2018	14:33:56	Gerou sequencia (70901 até 71000)
+BIANCA ALEBRANT     	24/10/2018	15:59:31	Gerou sequencia (71001 até 71100)
+RAFAELA SILVA       	24/10/2018	16:06:16	Gerou sequencia (71101 até 71200)
+LETICIA DAGOSTIN    	24/10/2018	16:51:27	Gerou sequencia (71201 até 71300)
+JULIA QUADROS       	25/10/2018	16:50:43	Gerou sequencia (71301 até 71400)
+ANDREIA JOHANN      	26/10/2018	14:55:20	Gerou sequencia (71401 até 71500)
+BIANCA ALEBRANT     	26/10/2018	17:31:57	Gerou sequencia (71501 até 71600)
+LETICIA DAGOSTIN    	29/10/2018	15:47:28	Gerou sequencia (71601 até 71700)
+JULIA QUADROS       	29/10/2018	16:11:17	Gerou sequencia (71701 até 71800)
+ANDREIA JOHANN      	30/10/2018	08:35:06	Gerou sequencia (71801 até 71900)
+JOAO MINELLI        	30/10/2018	09:36:07	Gerou sequencia (71901 até 72000)
+BIANCA ALEBRANT     	30/10/2018	17:08:35	Gerou sequencia (72001 até 72100)
+JULIA QUADROS       	30/10/2018	17:34:22	Gerou sequencia (72101 até 72200)
+ANDREIA JOHANN      	31/10/2018	16:19:04	Gerou sequencia (72201 até 72300)
+ANDREIA JOHANN      	31/10/2018	08:44:28	Login errado ou não cadastrado
+VICTTORIA GONCALVES 	1/11/2018	08:44:59	Gerou sequencia (72301 até 72400)
+JOAO MINELLI        	1/11/2018	10:14:37	Gerou sequencia (72401 até 72500)
+LETICIA DAGOSTIN    	1/11/2018	14:36:52	Gerou sequencia (72501 até 72600)
+BIANCA ALEBRANT     	1/11/2018	16:00:32	Gerou sequencia (72601 até 72700)
+JULIA QUADROS       	1/11/2018	16:18:27	Gerou sequencia (72701 até 72800)
+BIANCA ALEBRANT     	5/11/2018	15:13:17	Gerou sequencia (72801 até 72900)
+BIANCA ALEBRANT     	5/11/2018	15:59:54	Senha incorreta ou não cadastrada
+BIANCA ALEBRANT     	5/11/2018	16:00:18	Senha incorreta ou não cadastrada
+ANDREIA JOHANN      	5/11/2018	16:00:45	Gerou sequencia (72901 até 73000)
+LETICIA DAGOSTIN    	5/11/2018	17:39:11	Gerou sequencia (73001 até 73100)
+VICTTORIA GONCALVES 	6/11/2018	08:10:00	Gerou sequencia (73101 até 73200)
+BIANCA ALEBRANT     	7/11/2018	13:36:32	Gerou sequencia (73201 até 73300)
+RAFAELA SILVA       	7/11/2018	14:06:10	Gerou sequencia (73301 até 73400)
+ANDREIA JOHANN      	7/11/2018	14:38:41	Gerou sequencia (73401 até 73500)
+JULIA QUADROS       	7/11/2018	14:47:45	Gerou sequencia (73501 até 73600)
+LETICIA DAGOSTIN    	7/11/2018	15:20:00	Gerou sequencia (73601 até 73700)
+BIANCA ALEBRANT     	7/11/2018	16:09:28	Gerou sequencia (73701 até 73800)
+BIANCA ALEBRANT     	7/11/2018	08:21:51	Senha incorreta ou não cadastrada
+VICTTORIA GONCALVES 	8/11/2018	08:22:28	Gerou sequencia (73801 até 73900)
+BIANCA ALEBRANT     	8/11/2018	14:48:12	Gerou sequencia (73901 até 74000)
+JOAO MINELLI        	9/11/2018	09:20:21	Gerou sequencia (74001 até 74100)
+LETICIA DAGOSTIN    	9/11/2018	14:59:00	Cancelou processo
+LETICIA DAGOSTIN    	9/11/2018	14:59:33	Gerou sequencia (74101 até 74200)
+JULIA QUADROS       	9/11/2018	16:05:01	Gerou sequencia (74201 até 74300)
+ANDREIA JOHANN      	9/11/2018	16:51:17	Gerou sequencia (74301 até 74400)
+VICTTORIA GONCALVES 	12/11/2018	11:05:13	Gerou sequencia (74401 até 74500)
+RAFAELA SILVA       	12/11/2018	15:10:06	Gerou sequencia (74501 até 74600)
+JULIA QUADROS       	12/11/2018	17:47:29	Gerou sequencia (74601 até 74700)
+JOAO MINELLI        	13/11/2018	11:14:44	Gerou sequencia (74701 até 74800)
+ANDREIA JOHANN      	13/11/2018	12:58:47	Gerou sequencia (74801 até 74900)
+ANDREIA JOHANN      	13/11/2018	13:04:56	Login errado ou não cadastrado
+LETICIA DAGOSTIN    	13/11/2018	13:05:23	Gerou sequencia (74901 até 75000)
+BIANCA ALEBRANT     	13/11/2018	16:24:49	Gerou sequencia (75001 até 75100)
+VICTTORIA GONCALVES 	14/11/2018	12:01:58	Gerou sequencia (75101 até 75200)
+ANDREIA JOHANN      	14/11/2018	17:23:57	Gerou sequencia (75201 até 75300)
+BIANCA ALEBRANT     	16/11/2018	13:57:33	Gerou sequencia (75301 até 75400)
+RAFAELA SILVA       	16/11/2018	14:02:28	Gerou sequencia (75401 até 75500)
+RAFAELA SILVA       	16/11/2018	14:12:02	Login errado ou não cadastrado
+LETICIA DAGOSTIN    	16/11/2018	14:12:29	Gerou sequencia (75501 até 75600)
+JULIA QUADROS       	16/11/2018	16:54:20	Gerou sequencia (75601 até 75700)
+JOAO MINELLI        	19/11/2018	12:06:28	Gerou sequencia (75701 até 75800)
+VICTTORIA GONCALVES 	19/11/2018	12:07:25	Gerou sequencia (75801 até 75900)
+JOAO MINELLI        	19/11/2018	12:42:47	Cancelou processo
+BIANCA ALEBRANT     	19/11/2018	17:23:08	Gerou sequencia (75901 até 76000)
+ANDREIA JOHANN      	20/11/2018	13:40:52	Gerou sequencia (76001 até 76100)
+LETICIA DAGOSTIN    	20/11/2018	13:55:12	Gerou sequencia (76101 até 76200)
+JOAO MINELLI        	21/11/2018	12:28:43	Gerou sequencia (76201 até 76300)
+BIANCA ALEBRANT     	21/11/2018	14:52:44	Gerou sequencia (76301 até 76400)
+JULIA QUADROS       	21/11/2018	15:23:49	Gerou sequencia (76401 até 76500)
+VICTTORIA GONCALVES 	22/11/2018	11:47:35	Gerou sequencia (76501 até 76600)
+LETICIA DAGOSTIN    	22/11/2018	13:46:06	Gerou sequencia (76601 até 76700)
+ANDREIA JOHANN      	22/11/2018	14:44:57	Gerou sequencia (76701 até 76800)
+RAFAELA SILVA       	23/11/2018	14:57:33	Gerou sequencia (76801 até 76900)
+JULIA QUADROS       	23/11/2018	14:58:09	Gerou sequencia (76901 até 77000)
+BIANCA ALEBRANT     	23/11/2018	14:59:59	Gerou sequencia (77001 até 77100)
+LETICIA DAGOSTIN    	23/11/2018	17:13:48	Gerou sequencia (77101 até 77200)
+LETICIA DAGOSTIN    	23/11/2018	17:21:26	Excedeu tentativas diárias
+VICTTORIA GONCALVES 	27/11/2018	10:28:00	Gerou sequencia (77201 até 77300)
+BIANCA ALEBRANT     	27/11/2018	13:46:02	Gerou sequencia (77301 até 77400)
+LETICIA DAGOSTIN    	27/11/2018	14:30:27	Gerou sequencia (77401 até 77500)
+JULIA QUADROS       	27/11/2018	17:14:41	Gerou sequencia (77501 até 77600)
+JOAO MINELLI        	28/11/2018	10:12:40	Gerou sequencia (77601 até 77700)
+BIANCA ALEBRANT     	28/11/2018	15:46:49	Gerou sequencia (77701 até 77800)
+RAFAELA SILVA       	28/11/2018	17:10:58	Gerou sequencia (77801 até 77900)
+VICTTORIA GONCALVES 	29/11/2018	08:21:53	Gerou sequencia (77901 até 78000)
+LETICIA DAGOSTIN    	29/11/2018	14:33:40	Gerou sequencia (78001 até 78100)
+JULIA QUADROS       	29/11/2018	17:20:04	Gerou sequencia (78101 até 78200)
+BIANCA ALEBRANT     	30/11/2018	13:34:27	Gerou sequencia (78201 até 78300)
+JOAO MINELLI        	3/12/2018	09:52:50	Gerou sequencia (78301 até 78400)
+VICTTORIA GONCALVES 	3/12/2018	12:31:51	Gerou sequencia (78401 até 78500)
+JULIA QUADROS       	3/12/2018	16:31:04	Gerou sequencia (78501 até 78600)
+LETICIA DAGOSTIN    	3/12/2018	17:37:08	Gerou sequencia (78601 até 78700)
+BIANCA ALEBRANT     	4/12/2018	13:03:07	Gerou sequencia (78701 até 78800)
+RAFAELA SILVA       	4/12/2018	16:53:15	Gerou sequencia (78801 até 78900)
+RAFAELA SILVA       	4/12/2018	13:47:12	Login errado ou não cadastrado
+JULIA QUADROS       	5/12/2018	13:47:37	Gerou sequencia (78901 até 79000)
+JOAO MINELLI        	6/12/2018	09:18:31	Gerou sequencia (79001 até 79100)
+VICTTORIA GONCALVES 	6/12/2018	12:13:14	Gerou sequencia (79101 até 79200)
+LETICIA DAGOSTIN    	6/12/2018	13:07:50	Gerou sequencia (79201 até 79300)
+BIANCA ALEBRANT     	6/12/2018	14:23:05	Gerou sequencia (79301 até 79400)
+JULIA QUADROS       	6/12/2018	17:04:59	Gerou sequencia (79401 até 79500)
+RAFAELA SILVA       	7/12/2018	16:51:34	Gerou sequencia (79501 até 79600)
+VICTTORIA GONCALVES 	10/12/2018	11:31:42	Gerou sequencia (79601 até 79700)
+BIANCA ALEBRANT     	10/12/2018	14:48:50	Gerou sequencia (79701 até 79800)
+LETICIA DAGOSTIN    	10/12/2018	15:59:45	Gerou sequencia (79801 até 79900)
+JULIA QUADROS       	10/12/2018	16:09:52	Gerou sequencia (79901 até 80000)
+RAFAELA SILVA       	11/12/2018	16:47:50	Gerou sequencia (80001 até 80100)
+JOAO MINELLI        	12/12/2018	10:26:51	Gerou sequencia (80101 até 80200)
+VICTTORIA GONCALVES 	12/12/2018	11:55:50	Gerou sequencia (80201 até 80300)
+LETICIA DAGOSTIN    	12/12/2018	14:24:44	Gerou sequencia (80301 até 80400)
+JULIA QUADROS       	12/12/2018	16:24:03	Gerou sequencia (80401 até 80500)
+JULIA QUADROS       	12/12/2018	17:04:16	Senha incorreta ou não cadastrada
+BIANCA ALEBRANT     	12/12/2018	17:04:42	Gerou sequencia (80501 até 80600)
+JULIA QUADROS       	13/12/2018	16:51:20	Gerou sequencia (80601 até 80700)
+VICTTORIA GONCALVES 	14/12/2018	11:44:42	Gerou sequencia (80701 até 80800)
+JOAO MINELLI        	14/12/2018	12:14:46	Cancelou processo
+JOAO MINELLI        	14/12/2018	12:15:19	Gerou sequencia (80801 até 80900)
+BIANCA ALEBRANT     	14/12/2018	14:51:13	Gerou sequencia (80901 até 81000)
+LETICIA DAGOSTIN    	14/12/2018	15:39:52	Gerou sequencia (81001 até 81100)
+LETICIA DAGOSTIN    	17/12/2018	15:45:22	Gerou sequencia (81101 até 81200)
+JULIA QUADROS       	17/12/2018	17:16:57	Gerou sequencia (81201 até 81300)
+BIANCA ALEBRANT     	17/12/2018	17:30:06	Gerou sequencia (81301 até 81400)
+JOAO MINELLI        	18/12/2018	11:38:20	Cancelou processo
+JOAO MINELLI        	18/12/2018	11:38:53	Gerou sequencia (81401 até 81500)
+VICTTORIA GONCALVES 	19/12/2018	09:16:09	Gerou sequencia (81501 até 81600)
+LETICIA DAGOSTIN    	19/12/2018	13:23:18	Gerou sequencia (81601 até 81700)
+BIANCA ALEBRANT     	19/12/2018	14:51:27	Senha incorreta ou não cadastrada
+BIANCA ALEBRANT     	19/12/2018	14:51:51	Gerou sequencia (81701 até 81800)
+JULIA QUADROS       	19/12/2018	15:10:31	Gerou sequencia (81801 até 81900)
+BIANCA ALEBRANT     	20/12/2018	15:54:39	Gerou sequencia (81901 até 82000)
+LETICIA DAGOSTIN    	20/12/2018	16:27:15	Gerou sequencia (82001 até 82100)
+LETICIA DAGOSTIN    	20/12/2018	08:36:33	Login errado ou não cadastrado
+JULIA QUADROS       	21/12/2018	08:36:55	Gerou sequencia (82101 até 82200)
+VICTTORIA GONCALVES 	21/12/2018	09:08:07	Gerou sequencia (82201 até 82300)
+VICTTORIA GONCALVES 	21/12/2018	09:51:22	Senha incorreta ou não cadastrada
+JOAO MINELLI        	27/12/2018	09:51:48	Gerou sequencia (82301 até 82400)
+VICTTORIA GONCALVES 	27/12/2018	11:03:16	Gerou sequencia (82401 até 82500)
+BIANCA ALEBRANT     	27/12/2018	14:50:02	Gerou sequencia (82501 até 82600)
+LETICIA DAGOSTIN    	27/12/2018	14:55:18	Gerou sequencia (82601 até 82700)
+JULIA QUADROS       	27/12/2018	15:19:20	Gerou sequencia (82701 até 82800)
+JULIA QUADROS       	27/12/2018	16:20:05	Senha incorreta ou não cadastrada
+JULIA QUADROS       	28/12/2018	16:20:49	Gerou sequencia (82801 até 82900)
+LETICIA DAGOSTIN    	28/12/2018	17:12:10	Gerou sequencia (82901 até 83000)
+LETICIA DAGOSTIN    	28/12/2018	08:07:33	Login errado ou não cadastrado
+LETICIA DAGOSTIN    	28/12/2018	08:08:02	Login errado ou não cadastrado
+RAFAELA SILVA       	3/1/2019	08:08:36	Gerou sequencia (83001 até 83100)
+RAFAELA SILVA       	3/1/2019	11:29:33	Login errado ou não cadastrado
+RAFAELA SILVA       	3/1/2019	11:29:53	Login errado ou não cadastrado
+VICTTORIA GONCALVES 	3/1/2019	11:30:22	Gerou sequencia (83101 até 83200)
+BIANCA ALEBRANT     	3/1/2019	14:23:02	Gerou sequencia (83201 até 83300)
+VICTTORIA GONCALVES 	4/1/2019	11:44:05	Gerou sequencia (83301 até 83400)
+BIANCA ALEBRANT     	4/1/2019	16:59:11	Gerou sequencia (83401 até 83500)
+BIANCA ALEBRANT     	4/1/2019	15:41:08	Senha incorreta ou não cadastrada
+RAFAELA SILVA       	7/1/2019	15:41:33	Gerou sequencia (83501 até 83600)
+BIANCA ALEBRANT     	8/1/2019	15:05:29	Gerou sequencia (83601 até 83700)
+RAFAELA SILVA       	10/1/2019	13:10:09	Gerou sequencia (83701 até 83800)
+BIANCA ALEBRANT     	10/1/2019	16:53:14	Gerou sequencia (83801 até 83900)
+BIANCA ALEBRANT     	10/1/2019	10:59:50	Login errado ou não cadastrado
+BRUNO FONSECA       	11/1/2019	11:03:04	Excluiu login e senha (JOAO MINELLI)
+BRUNO FONSECA       	11/1/2019	11:03:29	Listou logins e senhas
+BRUNO FONSECA       	11/1/2019	11:03:47	Listou acessos (BRUNO FONSECA)
+BRUNO FONSECA       	11/1/2019	11:04:26	Gerou sequencia (83901 até 84000)
+BRUNO FONSECA       	11/1/2019	11:52:08	Listou logins e senhas
+BIANCA ALEBRANT     	14/1/2019	13:05:30	Gerou sequencia (84001 até 84100)
+BIANCA ALEBRANT     	16/1/2019	13:34:18	Gerou sequencia (84101 até 84200)
+RAFAELA SILVA       	16/1/2019	17:20:51	Gerou sequencia (84201 até 84300)
+BIANCA ALEBRANT     	17/1/2019	14:53:05	Gerou sequencia (84301 até 84400)
+JULIA QUADROS       	17/1/2019	16:08:09	Gerou sequencia (84401 até 84500)
+LETICIA DAGOSTIN    	17/1/2019	16:22:41	Gerou sequencia (84501 até 84600)
+LETICIA DAGOSTIN    	17/1/2019	13:38:42	Senha incorreta ou não cadastrada
+LETICIA DAGOSTIN    	17/1/2019	13:38:51	Login errado ou não cadastrado
+LETICIA DAGOSTIN    	21/1/2019	13:39:20	Gerou sequencia (84601 até 84700)
+JULIA QUADROS       	21/1/2019	16:24:53	Gerou sequencia (84701 até 84800)
+LETICIA DAGOSTIN    	22/1/2019	15:04:38	Gerou sequencia (84801 até 84900)
+LETICIA DAGOSTIN    	22/1/2019	16:49:13	Gerou sequencia (84901 até 85000)
+BIANCA ALEBRANT     	23/1/2019	13:05:14	Gerou sequencia (85001 até 85100)
+JULIA QUADROS       	23/1/2019	16:59:26	Gerou sequencia (85101 até 85200)
+BIANCA ALEBRANT     	24/1/2019	14:29:19	Gerou sequencia (85201 até 85300)
+LETICIA DAGOSTIN    	24/1/2019	15:08:27	Gerou sequencia (85301 até 85400)
+LETICIA DAGOSTIN    	25/1/2019	13:18:54	Gerou sequencia (85401 até 85500)
+JULIA QUADROS       	25/1/2019	15:50:57	Gerou sequencia (85501 até 85600)
+BIANCA ALEBRANT     	25/1/2019	16:24:37	Gerou sequencia (85601 até 85700)
+JULIA QUADROS       	28/1/2019	17:06:47	Gerou sequencia (85701 até 85800)
+LETICIA DAGOSTIN    	29/1/2019	17:09:14	Gerou sequencia (85801 até 85900)
+BIANCA ALEBRANT     	30/1/2019	13:02:33	Gerou sequencia (85901 até 86000)
+LETICIA DAGOSTIN    	30/1/2019	17:25:11	Gerou sequencia (86001 até 86100)
+BIANCA ALEBRANT     	31/1/2019	13:07:38	Gerou sequencia (86101 até 86200)
+BIANCA ALEBRANT     	31/1/2019	14:43:20	Senha incorreta ou não cadastrada
+JULIA QUADROS       	31/1/2019	14:43:46	Gerou sequencia (86201 até 86300)
+BIANCA ALEBRANT     	1/2/2019	13:31:53	Gerou sequencia (86301 até 86400)
+JULIA QUADROS       	1/2/2019	17:17:20	Gerou sequencia (86401 até 86500)
+BIANCA ALEBRANT     	5/2/2019	13:12:15	Gerou sequencia (86501 até 86600)
+LETICIA DAGOSTIN    	5/2/2019	13:39:09	Gerou sequencia (86601 até 86700)
+JULIA QUADROS       	6/2/2019	13:54:26	Gerou sequencia (86701 até 86800)
+LETICIA DAGOSTIN    	6/2/2019	15:06:55	Gerou sequencia (86801 até 86900)
+LETICIA DAGOSTIN    	6/2/2019	15:53:20	Login errado ou não cadastrado
+BRUNO FONSECA       	8/2/2019	15:54:41	Listou acessos (JOAO MINELLI)
+BRUNO FONSECA       	8/2/2019	15:55:50	Excluiu login e senha (JORGE HENRIQUE)
+LETICIA DAGOSTIN    	11/2/2019	13:44:55	Gerou sequencia (86901 até 87000)
+JULIA QUADROS       	11/2/2019	14:08:00	Gerou sequencia (87001 até 87100)
+BIANCA ALEBRANT     	12/2/2019	13:14:13	Gerou sequencia (87101 até 87200)
+LETICIA DAGOSTIN    	12/2/2019	14:49:03	Gerou sequencia (87201 até 87300)
+JULIA QUADROS       	12/2/2019	17:18:32	Gerou sequencia (87301 até 87400)
+BIANCA ALEBRANT     	13/2/2019	16:02:35	Gerou sequencia (87401 até 87500)
+LETICIA DAGOSTIN    	14/2/2019	13:06:10	Gerou sequencia (87501 até 87600)
+JULIA QUADROS       	21/2/2019	13:35:10	Gerou sequencia (87601 até 87700)
+BIANCA ALEBRANT     	21/2/2019	13:49:06	Gerou sequencia (87701 até 87800)
+LETICIA DAGOSTIN    	22/2/2019	15:38:34	Gerou sequencia (87801 até 87900)
+JULIA QUADROS       	22/2/2019	16:55:49	Gerou sequencia (87901 até 88000)
+BIANCA ALEBRANT     	25/2/2019	14:21:13	Gerou sequencia (88001 até 88100)
+LETICIA DAGOSTIN    	25/2/2019	16:30:39	Gerou sequencia (88101 até 88200)
+LETICIA DAGOSTIN    	26/2/2019	14:55:11	Gerou sequencia (88201 até 88300)
+JULIA QUADROS       	26/2/2019	15:06:26	Gerou sequencia (88301 até 88400)
+LETICIA DAGOSTIN    	27/2/2019	14:44:01	Gerou sequencia (88401 até 88500)
+JULIA QUADROS       	27/2/2019	16:43:49	Gerou sequencia (88501 até 88600)
+BIANCA ALEBRANT     	28/2/2019	13:21:24	Gerou sequencia (88601 até 88700)
+LETICIA DAGOSTIN    	28/2/2019	16:54:59	Gerou sequencia (88701 até 88800)
+LETICIA DAGOSTIN    	28/2/2019	09:35:06	Login errado ou não cadastrado
+LETICIA DAGOSTIN    	28/2/2019	14:08:55	Login errado ou não cadastrado
+LETICIA DAGOSTIN    	28/2/2019	14:09:07	Login errado ou não cadastrado
+JULIA QUADROS       	1/3/2019	14:09:35	Gerou sequencia (88801 até 88900)
+JULIA QUADROS       	7/3/2019	13:44:22	Gerou sequencia (88901 até 89000)
+JULIA QUADROS       	7/3/2019	17:01:54	Login errado ou não cadastrado
+LETICIA DAGOSTIN    	7/3/2019	17:02:17	Gerou sequencia (89001 até 89100)
+JULIA QUADROS       	8/3/2019	17:06:06	Gerou sequencia (89101 até 89200)
+LETICIA DAGOSTIN    	11/3/2019	13:49:38	Gerou sequencia (89201 até 89300)
+JULIA QUADROS       	11/3/2019	17:21:05	Gerou sequencia (89301 até 89400)
+LETICIA DAGOSTIN    	12/3/2019	15:31:58	Gerou sequencia (89401 até 89500)
+JULIA QUADROS       	13/3/2019	14:08:54	Gerou sequencia (89501 até 89600)
+LETICIA DAGOSTIN    	13/3/2019	15:27:14	Gerou sequencia (89601 até 89700)
